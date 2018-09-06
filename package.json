@@ -1,0 +1,16 @@
+{
+  "name": "mienkampf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.8.0",
+    "minecraft-protocol-forge": "^1.0.0",
+    "nodemon": "^1.18.4"
+  }
+}
